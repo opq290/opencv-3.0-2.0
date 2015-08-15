@@ -1,0 +1,1 @@
+/Users/shixinyang/Downloads/opencv-3.0-2.0/samples/cpp/example_cmake/CMakeFiles/opencv_example.dir
